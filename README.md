@@ -1,4 +1,4 @@
 # Dr.-Siaga
 
-Fatah
-Nanang Rustianto
+1.) Fatah
+2.) Nanang Rustianto
