@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://localhost/doktersiaga.id';
+$config['base_url']	= 'http://localhost/git_dr.siaga';
 
 /*
 |--------------------------------------------------------------------------
